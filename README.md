@@ -10,19 +10,7 @@ git clone https://github.com/dweadon/AI-text-detector-tool
 cd AI-text-detector-tool
 python3 main.py
 ```
-Also you will need sklearn library you will first need to navigate to a directory (in our case "cd AI-text-detector-tool") and type in:
-```Bash
-source venv/bin/activate
-```
-After that you should see (venv) next to your nickname:
-```Bash
-(venv) kill@kill:~/AI-text-detector-tool$ 
-```
-Then install sklearn:
-```Bash
-pip install scikit-learn
-```
-After that you're ready to detect AI text with this tool!
+Although tool requiers sklearn, the sklearn installer is prebuilt in main.py, main.py will detect whether you have it installed and install it if you don't
 
 ## If you have any problems, please inform me by sending to this email:
 mark.ramantsevich@outlook.com
