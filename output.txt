@@ -1,0 +1,5 @@
+7c0d08e added more examples, model is now more accurate
+adaa824 Update README.md
+40fe222 Add MIT License to the project
+c4d3e7f Create README.md
+3e2ca26 naive bayes ai text detector
